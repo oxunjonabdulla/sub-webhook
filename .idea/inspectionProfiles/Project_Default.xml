@@ -1,0 +1,61 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="contourpy" />
+          <option value="cycler" />
+          <option value="fonttools" />
+          <option value="kiwisolver" />
+          <option value="matplotlib" />
+          <option value="numpy" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="pillow" />
+          <option value="pyparsing" />
+          <option value="python-dateutil" />
+          <option value="seaborn" />
+          <option value="six" />
+          <option value="amqp" />
+          <option value="asgiref" />
+          <option value="attrs" />
+          <option value="billiard" />
+          <option value="celery" />
+          <option value="click" />
+          <option value="click-didyoumean" />
+          <option value="click-plugins" />
+          <option value="click-repl" />
+          <option value="Django" />
+          <option value="django-cors-headers" />
+          <option value="django-filter" />
+          <option value="djangorestframework" />
+          <option value="djangorestframework-simplejwt" />
+          <option value="drf-spectacular" />
+          <option value="gunicorn" />
+          <option value="inflection" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="kombu" />
+          <option value="prompt_toolkit" />
+          <option value="psycopg2-binary" />
+          <option value="PyJWT" />
+          <option value="python-decouple" />
+          <option value="PyYAML" />
+          <option value="redis" />
+          <option value="referencing" />
+          <option value="rpds-py" />
+          <option value="sqlparse" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="uritemplate" />
+          <option value="vine" />
+          <option value="wcwidth" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
